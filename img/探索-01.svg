@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="85.039px" height="85.039px" viewBox="0 0 85.039 85.039" enable-background="new 0 0 85.039 85.039" xml:space="preserve">
+<g id="圖層_2" display="none">
+	<rect x="-125.73" y="-268.131" display="inline" width="490.667" height="490.667"/>
+</g>
+<g id="圖層_7" display="none">
+</g>
+<g id="媒體庫" display="none">
+	<g display="inline">
+		<polygon fill="#FFFFFF" points="41.586,15.876 48.501,19.868 41.586,23.861 		"/>
+		<rect x="35.582" y="11.275" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="17.813" height="17.938"/>
+		<polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="32.144,15.025 32.144,32.587 50.707,32.587 		"/>
+		
+			<text transform="matrix(1 0 0 1 20.0198 58.0443)" fill="#F7F8F8" font-family="'NotoSansMonoCJKtc-Regular-B5pc-H'" font-size="15">媒體庫</text>
+	</g>
+</g>
+<g id="訂閱內容" display="none">
+	<g display="inline">
+		<polygon fill="#FFFFFF" points="39.273,22.309 46.189,26.302 39.273,30.295 		"/>
+		<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="36.082" y1="11.833" x2="48.082" y2="11.833"/>
+		<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="32.394" y1="15.896" x2="52.144" y2="15.896"/>
+		<rect x="29.957" y="19.146" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="24" height="14.313"/>
+		
+			<text transform="matrix(1 0 0 1 12.5195 57.4858)" fill="#F7F8F8" font-family="'NotoSansMonoCJKtc-Regular-B5pc-H'" font-size="15">訂閱內容</text>
+	</g>
+</g>
+<g id="Short" display="none">
+	<g display="inline">
+		<path fill="none" stroke="#FFFFFF" stroke-miterlimit="10" d="M48.397,24.26l2.13-1.099c2.174-1.121,2.979-3.884,1.8-6.171
+			c-1.18-2.287-3.898-3.232-6.071-2.111L35.165,20.6c-2.174,1.121-2.979,3.884-1.8,6.171c0.809,1.569,2.345,2.486,3.93,2.557
+			l-2.13,1.099c-2.174,1.121-2.979,3.884-1.8,6.171s3.898,3.232,6.071,2.111l11.091-5.72c2.174-1.121,2.979-3.884,1.8-6.171
+			C51.518,25.248,49.982,24.332,48.397,24.26z"/>
+		<polygon fill="#FFFFFF" points="39.986,22.7 46.902,26.693 39.986,30.685 		"/>
+		<text transform="matrix(1 0 0 1 21.2327 62.9482)" fill="#F7F8F8" font-family="'TaipeiSansTCBeta-Regular'" font-size="14">Shorts</text>
+	</g>
+</g>
+<g id="探索">
+	<g>
+		<circle fill="none" stroke="#FFFFFF" stroke-miterlimit="10" cx="42.391" cy="22.946" r="12.063"/>
+		<path fill="#FFFFFF" d="M40.025,20.794l-5.19,10.089l10.27-5.512l5.355-9.988L40.025,20.794z M42.616,24.571
+			c-0.846,0-1.531-0.686-1.531-1.531c0-0.846,0.686-1.531,1.531-1.531s1.531,0.686,1.531,1.531
+			C44.147,23.885,43.462,24.571,42.616,24.571z"/>
+		
+			<text transform="matrix(1 0 0 1 27.5195 58.4352)" fill="#F7F8F8" font-family="'NotoSansMonoCJKtc-Regular-B5pc-H'" font-size="15">探索</text>
+	</g>
+</g>
+<g id="首頁" display="none">
+	<g display="inline">
+		<polygon fill="#FFFFFF" points="42.582,10.9 32.582,20.275 32.582,34.025 39.832,34.025 39.832,26.108 44.707,26.108 
+			44.707,34.025 52.457,34.025 52.457,19.9 		"/>
+		
+			<text transform="matrix(1 0 0 1 27.5198 58.4195)" fill="#F7F8F8" font-family="'NotoSansMonoCJKtc-Regular-B5pc-H'" font-size="15">首頁</text>
+	</g>
+</g>
+</svg>

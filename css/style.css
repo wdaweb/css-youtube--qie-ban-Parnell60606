@@ -1,0 +1,173 @@
+* {
+    /* overflow: auto; */
+}
+
+body {
+    background: rgb(24, 24, 24);
+    color: white;
+}
+
+.border-line {
+    border: 1px solid rgb(75, 75, 75);
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.container {
+    height: 100vh;
+    width: 100%;
+
+    /* background-color: forestgreen; */
+}
+
+.bar-color {
+    background: rgb(32, 32, 32);
+}
+
+/* 最上 ------------------------------------------------------------------- */
+.topbar {
+    width: 100%;
+    height: 56px;
+    position: fixed;
+    padding: 0 16px;
+
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-between; */
+    align-items: center;
+
+    background: rgb(32, 32, 32, 0.95);
+
+    /* background: darkred; */
+}
+
+
+#hamburger {
+    width: 40px;
+}
+
+#logo {
+    width: 120px;
+    height: 56px;
+}
+
+#LOGO {
+    width: 90px;
+    height: 20px;
+    margin: 18px 16px;
+}
+
+.search-group {
+    /* flex-grow: 1; */
+    flex-wrap: nowrap;
+    width: 50%;
+    padding: ;
+}
+
+#search {
+    padding: 2px 6px;
+    width: 75%;
+    height: 34px;
+    margin-left: 40px;
+    box-sizing: content-box;
+    border-radius: 3px;
+    border: 1px solid rgb(56, 56, 56);
+}
+
+#searchButton {
+    border: 1px;
+    padding: 1px 6px;
+    width: 50px;
+    height: 36px;
+    box-sizing: content-box;
+}
+
+#micsearch {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: rgb(24, 24, 24);
+    /* padding: 8px; */
+}
+
+/* 第二上的tag ------------------------------------------------------ */
+
+.topbar-two {
+    width: 100%;
+    height: 56px;
+    position: fixed;
+    top: 56px;
+    left: 72px;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+
+    border-top: 1px solid rgb(75, 75, 75);
+    border-bottom: 1px solid rgb(75, 75, 75);
+
+    background: rgb(32, 32, 32, 0.95);
+    /* background: darkred; */
+
+}
+
+.tag {
+    height: 30px;
+    padding: 0 12px;
+    border-radius: 15px;
+    background: rgb(55, 55, 55);
+
+}
+
+/* 左邊bar ------------------------------------------------------- */
+.siderbar {
+    width: 72px;
+    height: calc(100% - 56px);
+    position: fixed;
+
+    top: 56px;
+
+    /* background: darkcyan; */
+    opacity: .5;
+}
+
+.siderbarbtn {
+    width: 72px;
+    height: 74px;
+}
+
+.siderbarbtn:nth-child(1) {
+    margin-top: 12px;
+}
+
+
+.siderbar img {
+    width: 70px;
+    margin-top: 2px;
+    margin-bottom: 4px;
+}
+
+.siderbarbtn:hover {
+    background: rgb(56, 56, 56);
+}
+
+.content {
+    float: right;
+    margin: 0 16px;
+    /* width: 100vh; */
+    width: calc(100% - 72px - 16px - 16px);
+    height: 400px;
+
+    background-color: blueviolet;
+    background: linear-gradient(to right, orange 0%, blue 100%);
+
+}
+
+
+.box {
+    height: 1000px;
+    width: 500px;
+    /* background: linear-gradient(red 0%, blue 100%); */
+    /* margin: auto; */
+}
